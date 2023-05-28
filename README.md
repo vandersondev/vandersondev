@@ -1,4 +1,4 @@
-# Olá, bem vindo ao perfil do Vand 👋
+# Olá 👋
 
 ## 🚀 Sobre mim
 Sou Analista de Sistemas, já atuei como Desenvolvedor Front-end, Back-end e atualmente estou DevOps, meus interesses são Cloud Computing, Arquitetura de Sistemas e Infraestrutura, DevOps e Desenvolvimento de software.
